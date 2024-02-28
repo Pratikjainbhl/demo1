@@ -1,0 +1,9 @@
+﻿html { user-select:text;
+}
+p {
+    color:pink;
+}
+#btn{
+    color:darkblue;
+    background-color:red;
+}
